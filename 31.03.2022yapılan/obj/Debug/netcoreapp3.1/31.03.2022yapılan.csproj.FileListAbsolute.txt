@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\bin\Debug\netcoreapp3.1\31.03.2022yapılan.exe
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\bin\Debug\netcoreapp3.1\31.03.2022yapılan.deps.json
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\bin\Debug\netcoreapp3.1\31.03.2022yapılan.runtimeconfig.json
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\bin\Debug\netcoreapp3.1\31.03.2022yapılan.runtimeconfig.dev.json
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\bin\Debug\netcoreapp3.1\31.03.2022yapılan.dll
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\bin\Debug\netcoreapp3.1\31.03.2022yapılan.pdb
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\_31._03._2022yapılan.Form1.resources
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.AssemblyInfo.cs
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.dll
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.pdb
+C:\Users\PC\source\repos\31.03.2022yapılan\31.03.2022yapılan\obj\Debug\netcoreapp3.1\31.03.2022yapılan.genruntimeconfig.cache
